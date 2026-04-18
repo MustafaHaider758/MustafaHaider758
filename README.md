@@ -3,6 +3,8 @@
 
 <div align="center">
   <img src="./image.png" alt="Mustafa Haider Header" width="100%" />
+  
+  [![Portfolio](https://img.shields.io/badge/Live_Portfolio-mustafaai.netlify.app-00df9a?style=for-the-badge&logo=icloud&logoColor=white)](https://mustafaai.netlify.app/)
 </div>
 
 ---
