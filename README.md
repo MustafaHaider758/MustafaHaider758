@@ -2,7 +2,7 @@
 ### AI Automation Specialist | Backend & Web Scraping Expert
 
 <div align="center">
-  <img src="./github_header.png" alt="Mustafa Haider Header" width="100%" />
+  <img src="./image.png" alt="Mustafa Haider Header" width="100%" />
 </div>
 
 ---
