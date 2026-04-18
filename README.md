@@ -10,11 +10,11 @@
 ---
 
 ### 🚀 About Me
-I architect efficiency through intelligent code. As an **AI Automation Specialist**, I build production-grade systems that bridge the gap between fragmented tools and unified, high-speed business engines. I specialize in scaling operations without increasing headcount.
+**AI Automation Architect & Backend Engineer** focus on designing high-performance systems that bridge the gap between fragmented tools and unified, high-speed business engines. I specialize in scaling operations through intelligent code and bespoke AI ecosystems.
 
-- 🤖 **Currently focused on**: Advanced n8n & Make.com workflows, RAG-based AI agents, and high-scale web intelligence.
-- 🛠️ **Expertise**: Automating lead ecosystems, voice AI integrations, and complex data synchronization.
-- 📈 **Track Record**: 15+ global projects, 500+ manual hours saved annually, and 100% client satisfaction.
+- 🤖 **Currently focused on**: Engineering self-adaptive web intelligence engines and production-grade RAG pipelines.
+- 🛠️ **Expertise**: Architecting complex n8n/Make.com workflows, multi-vector bot bypass systems, and end-to-end data synchronization.
+- 📈 **Track Record**: Delivered 15+ global projects, eliminated 500+ manual hours annually, and maintained 100% client satisfaction.
 
 ---
 
