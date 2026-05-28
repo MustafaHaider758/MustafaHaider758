@@ -52,10 +52,8 @@ I architect efficiency through intelligent code. As an
 ### 📊 GitHub Stats
 
 <div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=MustafaHaider758&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaHaider758&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=MustafaHaider758&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaHaider758&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
 </div>
 
 
