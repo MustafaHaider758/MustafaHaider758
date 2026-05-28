@@ -1,67 +1,72 @@
-# Hi, I'm Mustafa Haider 👋
+# Hi there, I'm Mustafa Haider 👋
+### AI Automation Specialist | Backend & Web Scraping Expert
 
-**AI & Data Engineer — Backend, LLM Pipelines, Automation**
+![Mustafa Haider Header](https://your-banner-image-url-here)
 
-I build production backend systems where AI is the engine, not the demo. Python first, with FastAPI services, LLM orchestration (OpenAI, Claude, LangChain), RAG pipelines, and large-scale data ingestion behind them.
-
----
-
-## 🛠️ What I'm doing now
-
-**AI & Data Engineer (Backend & Automation) — [EUmatrix.eu](https://eumatrix.eu)** · Brussels, Belgium · *Oct 2025 – Present*
-
-Working on the technical team of a European political-intelligence platform. My work covers:
-
-- Scalable Python backend architectures and REST API design (FastAPI)
-- Data ingestion pipelines turning unstructured web data into structured, analysis-ready datasets
-- Resilient web-crawling systems with anti-bot bypass for high-volume extraction
-- LLM-driven workflows (OpenAI, Claude) for classification, extraction, and summarization
-- PostgreSQL / Supabase schema design for analytics-grade datasets
-- n8n + custom Python workers for orchestration, retries, idempotency, and monitoring
-
-> *Most of my day-to-day code lives in EUmatrix's private organization and is covered by an NDA under Belgian and Romanian law. The public contribution graph reflects the cadence; the repos themselves are private. Happy to live-share on a call.*
+[Portfolio](https://mustafaai.netlify.app/)
 
 ---
 
-## 💼 Previously
+### 🚀 About Me
+AI Automation Architect & Backend Engineer focused on designing high-performance systems that bridge the gap between fragmented tools and unified, high-speed business engines. I specialize in scaling operations through intelligent code and bespoke AI ecosystems.
 
-- **AI / ML Engineer — Internship at Devrolin** *(Jun – Sep 2025, Islamabad)* — n8n automation, supervised ML, client-facing AI integrations.
-- **Freelance — Top Rated on Upwork** *(91% Job Success, 8 completed jobs)* — n8n + Python workflows for scraping, newsletters, Gmail/Drive automation, API documentation analysis.
-- **BSc Computer Science — COMSATS University Islamabad** *(2020 – 2025)* — Thesis: NLP-based Automatic Essay Scoring (LSTM + Word2Vec + Flask/React).
+- 🤖 **Currently focused on:** Engineering self-adaptive web intelligence engines and production-grade RAG pipelines at [EUmatrix.eu](https://eumatrix.eu) (Brussels, Belgium).
+- 🛠️ **Expertise:** Architecting complex n8n/Make.com workflows, multi-vector bot bypass systems, and end-to-end data synchronization.
+- 📈 **Track Record:** Delivered 8+ global projects, Top Rated on Upwork (91% Job Success), and consistently automated 15–25 hours of manual work per week for clients.
+- 🔒 **Note:** Most production work sits in the EUmatrix private organization under an NDA (Belgian & Romanian law). Public contribution graph reflects the cadence — happy to live-share private repos on a call.
 
 ---
 
-## 🧰 Stack I actually ship with
+### 🛠️ Tech Stack & Skills
 
-| Layer | Tools |
+| Category | Tools & Technologies |
 |---|---|
-| **Language** | Python (primary), JavaScript, SQL |
-| **Backend** | FastAPI, async Python, REST, Webhooks, Flask |
-| **AI / LLM** | OpenAI API, Anthropic Claude, LangChain, LangFlow, RAG, prompt engineering |
-| **Data** | PostgreSQL, Supabase, pgvector, Airtable, Pandas |
-| **Scraping** | Playwright, Scrapy, Selenium, anti-bot handling |
-| **Orchestration** | n8n, Make.com, custom Python workers |
-| **Infra / Ops** | Docker, GCP Cloud Run, Git, CI/CD, system monitoring |
+| **Automation** | n8n · Make · Zapier |
+| **Scraping** | Python · Playwright · Scrapy · Selenium |
+| **Backend & Data** | FastAPI · Supabase · PostgreSQL · Airtable · REST API |
+| **AI & LLMs** | GPT-4 · Claude · LangChain · RAG · Voice AI |
+| **Web Dev** | React · TailwindCSS · JavaScript |
 
 ---
 
-## 📂 Public repositories
+### 🌟 Featured Projects
 
-Most production code is private (EUmatrix org + client NDAs). The public side here covers university work and personal exploration:
+#### 🕵️‍♂️ Autonomous Web Intelligence Engine — *EUmatrix.eu*
+Covering 800+ European political/government domains with multi-vector bot bypass.
+- **Tech:** Google Cloud, Python, FastAPI, n8n, Playwright, Scrapy, Supabase.
+- **Result:** 24/7 monitoring of EU policy & legislative sources with minimal manual intervention.
+- *Private repo under NDA — available for live walkthrough.*
 
-- **Automatic-Essay-Scoring-System** — Final-year thesis. NLP scoring engine using LSTM + Word2Vec with Flask/React UI.
-- **mep-global-avg-scoring** — Python scoring utility.
-- **Mustafa-portfolio** — Personal portfolio site (React + Tailwind).
+#### 📊 EP Statements Extraction & Scoring Pipeline — *EUmatrix.eu*
+End-to-end LLM pipeline for extracting, classifying, and scoring European Parliament statements.
+- **Tech:** Python, OpenAI/Claude APIs, PostgreSQL, n8n.
+- **Result:** Unstructured parliamentary content transformed into analysis-ready structured datasets.
+- *Private repo under NDA.*
 
-I'm pushing new public demos (RAG, FastAPI patterns) as I have cycles — pinned repos will be kept current.
+#### 🔄 Dynamic Record Hub
+End-to-end record management and synchronization for client operations.
+- **Tech:** Make.com, Airtable, REST APIs.
+- **Result:** Eliminated 20+ hours of manual data entry weekly.
+
+#### 📝 Automatic Essay Scoring System *(Final Year Thesis — Public)*
+NLP-based essay evaluation using LSTM + Word2Vec with Flask/React UI for real-time scoring.
+- **Tech:** Python, TensorFlow, LSTM, Word2Vec, Flask, React.
 
 ---
 
-## 📩 Get in touch
+### 📊 GitHub Stats
+*GitHub Stats · Top Languages*
 
-- **Email:** mustafahaider758@gmail.com
-- **LinkedIn:** [linkedin.com/in/mustafa-haider-034152176](https://www.linkedin.com/in/mustafa-haider-034152176)
-- **Upwork:** [Top Rated profile](https://www.upwork.com/freelancers/~01e19bb071ea911c71)
-- **Portfolio:** [mustafaai.netlify.app](https://mustafaai.netlify.app/)
+---
 
-Open to senior AI engineering, backend, and LLM/RAG roles — freelance or full-time remote, EU hours.
+### 📩 Let's Connect!
+I'm always open to discussing new projects, technical challenges, or the future of AI.
+
+- 💼 **LinkedIn:** [Mustafa Haider](https://www.linkedin.com/in/mustafa-haider-034152176)
+- 🚀 **Upwork:** [Work with me](https://www.upwork.com/freelancers/~01e19bb071ea911c71)
+- 💬 **WhatsApp:** +92 348 5872275
+- 📧 **Email:** mustafahaider758@gmail.com
+
+---
+
+*Built with precision by Mustafa.ai • © 2026*
